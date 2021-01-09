@@ -1,0 +1,26 @@
+D:\GcVBSPro\DriverClient\DriverClient\bin\Release\DriverClient.exe
+D:\GcVBSPro\DriverClient\DriverClient\bin\Release\DriverClient.pdb
+D:\GcVBSPro\DriverClient\DriverClient\bin\Release\System.Data.SQLite.dll
+D:\GcVBSPro\DriverClient\DriverClient\obj\x86\Release\DriverClient.MainWindow.resources
+D:\GcVBSPro\DriverClient\DriverClient\obj\x86\Release\DriverClient.Option.resources
+D:\GcVBSPro\DriverClient\DriverClient\obj\x86\Release\DriverClient.Properties.Resources.resources
+D:\GcVBSPro\DriverClient\DriverClient\obj\x86\Release\DriverClient.csproj.GenerateResource.Cache
+D:\GcVBSPro\DriverClient\DriverClient\obj\x86\Release\DriverClient.exe
+D:\GcVBSPro\DriverClient\DriverClient\obj\x86\Release\DriverClient.pdb
+D:\GcVBSPro\DriverClient\DriverClient\obj\x86\Release\DriverClient.csprojResolveAssemblyReference.cache
+D:\GcVBSPro\DriverClient\DriverClient\obj\x86\Release\DriverClient.Test.resources
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\bin\Release\DriverClient.exe
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\bin\Release\DriverClient.pdb
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\bin\Release\System.Data.SQLite.dll
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.csprojAssemblyReference.cache
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.MainWindow.resources
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.Option.resources
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.Properties.Resources.resources
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.Test.resources
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.csproj.GenerateResource.cache
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.csproj.CopyComplete
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.exe
+D:\Visual Studio 2017\projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.pdb
+D:\Projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.exe
+D:\Projects\DriverClient\DriverClient\obj\x86\Release\DriverClient.pdb
